@@ -35,5 +35,7 @@ You can now access the web app locally by visiting http://localhost:5000 in your
 The code for webcam dataset collection has been commented out to prevent redundancy. The dataset was collected earlier with careful attention to ensure the quality and accuracy of the model's training.  
 
 💾 Dataset Files:  
-Due to file size limitations, the dataset files cannot be uploaded to GitHub. However, if you wish to replicate the training process, the dataset can be acquired separately upon request, or you can use your own dataset to retrain the model.  
+Due to file size limitations, the dataset files cannot be uploaded to GitHub. However, if you wish to replicate the training process, the dataset can be acquired separately upon request, or you can use your own dataset to retrain the model.    
+
+🌟If you like this project don't forget to star ⭐ the repository!
 
