@@ -1,0 +1,51 @@
+body {
+	background-color: slategray;
+	text-align: center;
+}
+
+p {
+	color: papayawhip;
+	font-family: Shanti;
+	font_size: 30px;
+	margin: 20px;
+}
+
+img {
+
+	margin: 60px 0 60 px 0;
+	width: 250px;
+	border-radius: 10px;
+}
+
+input {
+	width: 300px;
+	height: 50px;
+	margin: 20px;
+	border: none;
+	border_radius: 10px;
+	font: Shanti;
+	text-align: center;
+	font-size: 1.3em;
+
+}
+
+input:focus {
+	border: solid 5px #00FFCE;
+	outline: none;
+}
+
+button{
+	padding: 50px 100px;
+	background-color: blueviolet;
+	color: aliceblue;
+	border: none;
+	border-radius: 100px;
+	cursor: pointer;
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+button:hover{
+	background-color: palevioletred;
+}

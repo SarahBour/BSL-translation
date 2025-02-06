@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<title>Translate a british sign language now!</title>
+		<link rel = "stylesheet" href = "{{url_for('static', filename = 'css/main.css')}}">
+	</head>
+	<body>
+		<img src = "https://raw.githubusercontent.com/SarahBour/web/main/logoBSL%20(2).png">
+		<br>
+		<p>During the translation please make sure that your lovely hands are visible to the webcam.</p>
+		<br>
+		<div class= "buttons">
+			<button onclick=  "location.href = '{{url_for('webcam')}}'">Translate my live speech now</button>
+			<br><br><br>
+			<button onclick= "location.href='{{url_for('youtube')}}'">Should I trust this translator?</button>
+		</div>
+	</body>
+</html>
