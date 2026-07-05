@@ -15,17 +15,23 @@ I learned BSL before collecting the dataset, ensuring the translation model's tr
 🧠 Machine Learning: Custom dataset, trained using various models in Python  
 🎥 Webcam: Used for dataset collection (code commented out to avoid duplicate data capture)  
 Getting Started:  
-Clone the Repository:  
+1. **Clone the Repository**:  
 
 ```
 git clone https://github.com/SarahBour/BSL-translation.git
 cd BSL-translation
 ```
-Install Dependencies:
-Install the necessary libraries using pip
 
-Run the Application:
-Launch the Flask web app   
+2. **Install the Requirements**:
+```
+py -m pip install -r requirements.txt
+```
+
+3. **Run the Application**:
+
+```
+py app.py
+```
 
 
 You can now access the web app locally by visiting http://localhost:5000 in your browser.  
