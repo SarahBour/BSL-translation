@@ -1,6 +1,6 @@
 # British Sign Language Translation Web App  
 ## Description:  
-This is a British Sign Language (BSL) translation web app designed to translate sign language gestures into text using a machine learning model. The app is built using Python, Flask, HTML, and CSS for the graphical user interface (GUI).  
+This is a British Sign Language (BSL) translation minimal web app designed to translate sign language gestures into text using a machine learning model. The app is built using Python, Flask, HTML, and CSS for the graphical user interface (GUI).  
 
 I learned BSL before collecting the dataset, ensuring the translation model's training was aligned with real-world usage. The dataset was collected using a webcam to capture sign language gestures, and I have commented out the relevant code cells to prevent the dataset collection from being run again, as the data was already taken and used for training.  
 
