@@ -18,8 +18,8 @@ Getting Started:
 Clone the Repository:  
 
 ```
-git clone https://github.com/yourusername/BSL-Translation-WebApp.git
-cd BSL-Translation-WebApp
+git clone https://github.com/SarahBour/BSL-translation.git
+cd BSL-translation
 ```
 Install Dependencies:
 Install the necessary libraries using pip
